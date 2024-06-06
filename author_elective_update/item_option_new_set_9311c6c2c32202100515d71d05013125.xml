@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>user_profile</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 01:36:59</sys_created_on>
+        <sys_id>9311c6c2c32202100515d71d05013125</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>User Profile</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>item_option_new_set_9311c6c2c32202100515d71d05013125</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-04 06:28:30</sys_updated_on>
+        <title>User Profile</title>
+        <type>one_to_one</type>
+        <version>13</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f84aa4ab1b2d4e9865324089bd4bcb9b</instance_id>
+        <instance_name>dev260694</instance_name>
+        <name>item_option_new_set_9311c6c2c32202100515d71d05013125</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>user_profile</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-04 01:36:59</sys_created_on><sys_id>9311c6c2c32202100515d71d05013125</sys_id><sys_mod_count>13</sys_mod_count><sys_name>User Profile</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>item_option_new_set_9311c6c2c32202100515d71d05013125</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-04 06:28:30</sys_updated_on><title>User Profile</title><type>one_to_one</type><version>13</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>-600636071</payload_hash>
+        <record_name>User Profile</record_name>
+        <reverted_from/>
+        <source>746bb21dc34ac2100515d71d05013124</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-04 06:28:30</sys_created_on>
+        <sys_id>1fe307c6c36602100515d71d050131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fe1ef5a430000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-04 06:28:30</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>dfe307c63d660210b6e7b9195abd47e6</update_guid>
+        <update_guid_history>dfe307c63d660210b6e7b9195abd47e6:-600636071,b74cca828462021057b71fbaf574373a:-391937768,4e0cc2c2ab620210bde277637c90cccb:-183239465,db8b4a829c6202108c95630d096ea8ac:25458838,13e90a02b36202109a7ba3753659e636:-1338290400,bc7286466d220210949689a437f84196:-1129592097,2b328246f42202103fd8db4603875d42:-920893794,f902c6067522021089980c8c9a45ba72:-712195491,d7e1ca0613220210b3086015d6b29416:-503497188,cad146c253220210f590c5bba1bfaa64:-294798885,f3a106065e220210f37f1da351c8ef78:-86100582,e0a14ac2ec2202102848c45656e8f554:122597721,5e71cec2fa220210992ecbbf81a78f11:331296024,c13102c296220210472399f6319049dd:-118633413</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User Profile">65f38386c36202100515d71d050131da</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-04 06:28:40</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>34fa16b47cdc475e8b9ac09374557069</sys_id>
+        <sys_metadata>9311c6c2c32202100515d71d05013125</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Profile</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>item_option_new_set_9311c6c2c32202100515d71d05013125</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_9311c6c2c32202100515d71d05013125">1fe307c6c36602100515d71d050131e7</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-04 06:28:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Test Catalog Client Script">2b808682c32202100515d71d050131bb</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 01:36:59</sys_created_on>
+        <sys_id>853102c2c32202100515d71d050131de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User Profile.Test Catalog Client Script</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>io_set_item_853102c2c32202100515d71d050131de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 01:36:59</sys_updated_on>
+        <variable_set display_value="User Profile">9311c6c2c32202100515d71d05013125</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f84aa4ab1b2d4e9865324089bd4bcb9b</instance_id>
+        <instance_name>dev260694</instance_name>
+        <name>io_set_item_853102c2c32202100515d71d050131de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Test Catalog Client Script">2b808682c32202100515d71d050131bb</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-04 01:36:59</sys_created_on><sys_id>853102c2c32202100515d71d050131de</sys_id><sys_mod_count>1</sys_mod_count><sys_name>User Profile.Test Catalog Client Script</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>io_set_item_853102c2c32202100515d71d050131de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-04 01:36:59</sys_updated_on><variable_set display_value="User Profile">9311c6c2c32202100515d71d05013125</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1604023902</payload_hash>
+        <record_name>User Profile.Test Catalog Client Script</record_name>
+        <reverted_from/>
+        <source>746bb21dc34ac2100515d71d05013124</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 01:37:00</sys_created_on>
+        <sys_id>45310ac2c32202100515d71d050131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fe0e4766a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 01:37:00</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>49310ac2312202106b69f6266c199afd</update_guid>
+        <update_guid_history>49310ac2312202106b69f6266c199afd:1604023902</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User Profile.Test Catalog Client Script">e018028ec32202100515d71d05013130</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 02:07:00</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>2671cd9cb84b4a3e991af7a06f23fd61</sys_id>
+        <sys_metadata>853102c2c32202100515d71d050131de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Profile.Test Catalog Client Script</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>io_set_item_853102c2c32202100515d71d050131de</sys_update_name>
+        <sys_update_version display_value="io_set_item_853102c2c32202100515d71d050131de">45310ac2c32202100515d71d050131fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 02:07:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
