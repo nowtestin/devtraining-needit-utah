@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d8af69ed47462210bc679de4116d4380</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-tertiary","label":"We make work, work better for people with modern digital workflows","wontWrap":true,"hasNoMargin":true,"level":"1","id":"hasNoMargin","value":true,"propLabel":"Hide bottom margin","noDebounce":true}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 07:36:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2849352d47862210bc679de4116d43b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_2849352d47862210bc679de4116d43b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 07:36:14</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>13</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1cc4cabeff5026dcc80bf8e4fc4fd967</instance_id>
+        <instance_name>dev302320</instance_name>
+        <name>par_dashboard_widget_2849352d47862210bc679de4116d43b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d8af69ed47462210bc679de4116d4380</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-tertiary","label":"We make work, work better for people with modern digital workflows","wontWrap":true,"hasNoMargin":true,"level":"1","id":"hasNoMargin","value":true,"propLabel":"Hide bottom margin","noDebounce":true}</component_props><h>13</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-10 07:36:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2849352d47862210bc679de4116d43b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_widget_2849352d47862210bc679de4116d43b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-10 07:36:14</sys_updated_on><visualization/><w>13</w><widget_props/><x>13</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1789330504</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>36deed1747752210bc679de4116d435b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 07:36:14</sys_created_on>
+        <sys_id>e449352d47862210bc679de4116d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19758c4ae8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 07:36:14</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>e849352d16862210d6e4e2677779dab7</update_guid>
+        <update_guid_history>e849352d16862210d6e4e2677779dab7:1789330504</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">99b9fda947862210bc679de4116d43b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-10 07:38:12</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>1a5c538a9a2444309df91fbb375f3b90</sys_id>
+        <sys_metadata>2849352d47862210bc679de4116d43b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_2849352d47862210bc679de4116d43b6</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_2849352d47862210bc679de4116d43b6">e449352d47862210bc679de4116d43b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-10 07:38:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
